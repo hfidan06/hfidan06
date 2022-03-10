@@ -1,1 +1,1 @@
-![snake gif](https://github.com/hfidan06/hfidan06/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hasan-fidan/hasan-fidan/blob/output/github-contribution-grid-snake.gif)
